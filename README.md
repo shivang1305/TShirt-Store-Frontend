@@ -83,7 +83,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 ![Cart](https://github.com/shivang1305/TShirt-Store-Frontend/blob/master/Cart.jpeg)
 #
 #
-![Signin](https://github.com/shivang1305/TShirt-Store-Frontend/blob/master/Signin.jpeg)
+![Admin Panel](https://github.com/shivang1305/TShirt-Store-Frontend/blob/master/AdminPanel.jpeg)
 #
 #
 ![Signup](https://github.com/shivang1305/TShirt-Store-Frontend/blob/master/Signup.jpeg)
